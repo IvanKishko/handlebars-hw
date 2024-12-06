@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Harry Potter",
+        "weapon": "Wand",
+        "skills": [
+            "Spellcasting",
+            "Flying",
+            "Courage"
+        ],
+        "img": "https://static-xl.xlsemanal.com/wp-content/uploads/sites/5/2024/10/harry-potter-hogwarts-2025.jpg"
+    },
+    {
+        "name": "Hermione Granger",
+        "weapon": "Wand",
+        "skills": [
+            "Intelligence",
+            "Potion-making",
+            "Spellcasting"
+        ],
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsChFFy1lTNAHI2lk97norxP6UFfzRXyYqww&s"
+    },
+    {
+        "name": "Ron Weasley",
+        "weapon": "Wand",
+        "skills": [
+            "Strategy",
+            "Courage",
+            "Chess Mastery"
+        ],
+        "img": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/que-tienes-de-ron-weasley/120274313-1-esl-ES/Que-tienes-de-Ron-Weasley.jpg?resize=640:*"
+    },
+    {
+        "name": "Albus Dumbledore",
+        "weapon": "Elder Wand",
+        "skills": [
+            "Wisdom",
+            "Spellcasting",
+            "Leadership"
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dumbledore_-_Prisoner_of_Azkaban.jpg"
+    },
+    {
+        "name": "Voldemort",
+        "weapon": "Dark Magic",
+        "skills": [
+            "Dark Arts",
+            "Cunning",
+            "Intimidation"
+        ],
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG78Uboeq_V2Ai-58fChAJObZf7BU97VFXMw&s"
+    }
+]

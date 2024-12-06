@@ -1,0 +1,13 @@
+{{#each this}}
+  <div class="character-card">
+    <img src="{{img}}" alt="{{name}}" class="character-img" />
+    <h2 class="character-name">{{name}}</h2>
+    <p><strong>Weapon:</strong> {{weapon}}</p>
+    <h3 class="character-skills">Skills:</h3>
+    <ul class="skills-list">
+      {{#each skills}}
+        <li>{{this}}</li>
+      {{/each}}
+    </ul>
+  </div>
+{{/each}}
